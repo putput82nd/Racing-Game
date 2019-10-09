@@ -1,0 +1,60 @@
+﻿  AICoreInterface.cpp
+  Framework.cpp
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\headers\aicoreinterface.h(4): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Geometry.cpp
+  Index_Buffer.cpp
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\index_buffer.cpp(31): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\index_buffer.cpp(31): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Interface.cpp
+  Main_Game.cpp
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\headers\aicoreinterface.h(4): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Mesh_Objects.cpp
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\mesh_objects.cpp(42): error C2664: 'HRESULT D3DXLoadMeshFromXW(LPCWSTR,DWORD,LPDIRECT3DDEVICE9,LPD3DXBUFFER *,LPD3DXBUFFER *,LPD3DXBUFFER *,DWORD *,LPD3DXMESH *)': cannot convert argument 1 from 'char *' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\mesh_objects.cpp(42): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\mesh_objects.cpp(45): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\mesh_objects.cpp(45): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\mesh_objects.cpp(70): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': cannot convert argument 2 from 'char *' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\mesh_objects.cpp(70): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\mesh_objects.cpp(72): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\mesh_objects.cpp(72): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Simple_Input.cpp
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\simple_input.cpp(36): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\simple_input.cpp(36): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\simple_input.cpp(44): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\simple_input.cpp(44): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\simple_input.cpp(56): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\simple_input.cpp(56): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\simple_input.cpp(63): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\simple_input.cpp(63): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\simple_input.cpp(70): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\simple_input.cpp(70): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Sound.cpp
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\headers\sound.h(10): fatal error C1083: Cannot open include file: 'fmod.h': No such file or directory
+  Terrain.cpp
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\terrain.cpp(28): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\terrain.cpp(28): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\terrain.cpp(67): error C2664: 'HRESULT D3DXCreateTextureFromFileW(LPDIRECT3DDEVICE9,LPCWSTR,LPDIRECT3DTEXTURE9 *)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\terrain.cpp(67): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\terrain.cpp(69): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\terrain.cpp(69): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Text.cpp
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\text.cpp(17): error C2664: 'HRESULT D3DXCreateFontW(LPDIRECT3DDEVICE9,INT,UINT,UINT,UINT,BOOL,DWORD,DWORD,DWORD,DWORD,LPCWSTR,LPD3DXFONT *)': cannot convert argument 11 from 'char *' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\text.cpp(18): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\text.cpp(22): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\text.cpp(22): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\text.cpp(79): error C2664: 'INT ID3DXFont::DrawTextW(LPD3DXSPRITE,LPCWSTR,INT,LPRECT,DWORD,D3DCOLOR)': cannot convert argument 2 from 'char *' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\text.cpp(79): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Vertex_Buffer.cpp
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\vertex_buffer.cpp(27): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\vertex_buffer.cpp(27): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\vertex_buffer.cpp(58): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\vertex_buffer.cpp(58): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\vertex_buffer.cpp(68): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\vertex_buffer.cpp(68): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  D3DX.cpp
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\d3dx.cpp(28): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\d3dx.cpp(28): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\d3dx.cpp(63): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\d3dx.cpp(63): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\d3dx.cpp(88): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [1024]' to 'LPCWSTR'
+  a:\putnam family\documents\devry class\gsp-420\w8\gsp420_integrated_engine\engine_framework_420\sources\d3dx.cpp(88): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
